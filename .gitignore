@@ -17,3 +17,5 @@ x86/
 
 # netproc's own logs, in case anyone runs it in-tree
 *.log
+
+publish/
